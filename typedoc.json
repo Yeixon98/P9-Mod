@@ -1,6 +1,9 @@
 {
   "entryPoints": [
-    "./src/"
+    "./src/filterAndmapFunctions.ts",
+    "./src/filterMapAddReduce.ts",
+    "./src/filterMapSubReduce.ts",
+    "./src/templateMethods.ts"
   ],
   "out": "./docs"
 }
